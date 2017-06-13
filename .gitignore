@@ -1,0 +1,4 @@
+cc_starter/
+**/tutorial.egg-info/
+**/__pycache__/
+*.pyc

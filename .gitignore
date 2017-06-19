@@ -1,4 +1,7 @@
 cc_starter/
+**/.cache/
+**/.vscode/
 **/tutorial.egg-info/
 **/__pycache__/
+python/
 *.pyc
